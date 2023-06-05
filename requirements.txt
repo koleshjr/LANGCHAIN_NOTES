@@ -1,0 +1,12 @@
+openai
+langchain
+gradio
+chromadb
+tiktoken
+unstructured
+qdrant-client
+pinecone-client
+pypdf
+cohere
+pdfkit
+streamlit
