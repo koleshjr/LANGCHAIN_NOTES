@@ -1,5 +1,6 @@
 openai
 langchain
+langchain[docarray]
 gradio
 chromadb
 tiktoken
